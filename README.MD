@@ -1,4 +1,4 @@
-# Bandage Store Documentation
+# Bandage E-Commerce Store Documentation
 
 **Author**: Muhammad Usman Naseem
 

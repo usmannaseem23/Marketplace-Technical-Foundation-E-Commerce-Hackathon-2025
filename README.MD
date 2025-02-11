@@ -284,7 +284,7 @@ This document outlines the technical roadmap for the **Bandage Online Shopping P
 ---
 
 ## Conclusion
-This technical foundation outlines the architecture, workflows, and API endpoints for the **Bandage Online Shopping Platform**. The platform will provide a seamless eCommerce experience with:
+This technical foundation outlines the architecture, workflows, and API endpoints for the **Bandage E-Commerce Store**. The platform will provide a seamless eCommerce experience with:
 - Robust authentication.
 - Efficient inventory management.
 - Real-time shipment tracking.
